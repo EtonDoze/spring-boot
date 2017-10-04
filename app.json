@@ -1,0 +1,7 @@
+{
+  "name": "spring-boot-sample-simple",
+  "description": "Spring Boot Simple Sample",
+  "repository": "https://github.com/EtonDoze/spring-boot/",
+  "logo": "https://projects.spring.io/spring-boot/img/spring-logo.png",
+  "keywords": ["java", "spring", "boot"]
+}
